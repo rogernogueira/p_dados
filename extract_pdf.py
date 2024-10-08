@@ -14,4 +14,3 @@ for file in glob.glob("pdfs/*.pdf"):
     with open(f"txts\\{name_file}.txt", "w", encoding='utf-8') as f:
         f.write(text)
 
-print(f"Numero de paginas: {len(reader.pages)}")
