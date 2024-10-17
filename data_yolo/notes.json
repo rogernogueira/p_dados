@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Questao"
+    },
+    {
+      "id": 1,
+      "name": "Texto"
+    },
+    {
+      "id": 2,
+      "name": "Topico"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
