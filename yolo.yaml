@@ -1,0 +1,12 @@
+nome: ProjetoYOLO
+train: D:\yolo_layout\yolo_data_augmented\train\images
+val: D:\yolo_layout\yolo_data_augmented\val\images
+
+nc: 3
+names: ['questao', 'testo', 'topico']
+
+epochs: 200
+batch_size: 16
+img_size: 640
+optimizer: Adan
+workers: 8
